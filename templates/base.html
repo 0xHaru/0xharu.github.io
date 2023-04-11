@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="{{ get_url(path="style.css") }}"/>
+    <link rel="stylesheet" href='https://fonts.googleapis.com/css?family=Noto%20Serif'>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=JetBrains+Mono"/>
+    <!-- https://www.flaticon.com/free-icon/lambda_7288373 -->
+    <link rel="shortcut icon" type="image/png" href="{{ get_url(path="favicon.png") }}"/>
+    {% block math %} {% endblock %}
+    {% block title %} {% endblock %}
+    <!-- Default title -->
+    <title>{{ config.title }}</title>
+  </head>
+
+  <nav>
+    <a href="/">home</a>
+    <a href="/blog">blog</a>
+    <a href="/pics">pics</a>
+    <a href="/books">books</a>
+    <a href="/links">links</a>
+  </nav>
+
+  <body>
+    <section class="section">
+      <div class="container">
+        {% block content %} {% endblock %}
+      </div>
+    </section>
+  </body>
+</html>

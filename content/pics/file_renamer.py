@@ -1,0 +1,23 @@
+import glob
+import os
+import re
+
+BASE_PATH = os.path.dirname(os.path.abspath(__file__))
+
+def natural_sort(l):
+    convert = lambda text: int(text) if text.isdigit() else text.lower()
+    alphanum_key = lambda key: [convert(c) for c in re.split("([0-9]+)", key)]
+    return sorted(l, key=alphanum_key)
+
+
+files = glob.glob(f"{BASE_PATH}/*.jpg")
+files = natural_sort(files)
+
+i = 0
+
+for path in files:
+    new_path = path.rsplit("/")[:-1]
+    new_path = "/".join(new_path)
+    new_path = f"{new_path}/{i}.jpg"
+    os.rename(path, new_path)
+    i += 1

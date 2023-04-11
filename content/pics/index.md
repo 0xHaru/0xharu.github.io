@@ -1,0 +1,7 @@
++++
+title = "Pics"
++++
+
+<br>
+
+{{ gallery() }}
