@@ -16,7 +16,7 @@ template = "page.html"
 -   [Austin Henley](https://austinhenley.com)
 -   [Ben Hoyt](https://benhoyt.com)
 -   [Tiark Rompf](https://tiarkrompf.github.io)
--   [Oil shell](http://www.oilshell.org/blog)
+-   [Oil Shell Blog](http://www.oilshell.org/blog)
 -   [Chidi Williams](https://chidiwilliams.com)
 -   [Nora Sandler](https://norasandler.com/)
 -   [Danny Yang](https://yangdanny97.github.io)
