@@ -42,12 +42,11 @@ template = "page.html"
 -   [Easy Theory (YouTube)](https://www.youtube.com/@EasyTheory)
 -   [hhp3 (YouTube)](https://www.youtube.com/@hhp3)
 
-## Forums
+## Miscellaneous
 
--   [Lobsters](https://lobste.rs)
--   [Hacker News](https://news.ycombinator.com)
--   [r/ProgrammingLanguages](https://www.reddit.com/r/ProgrammingLanguages)
--   [r/Compilers](https://www.reddit.com/r/Compilers)
+-   [OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html)
+-   [List of data structures](https://en.wikipedia.org/wiki/List_of_data_structures)
+-   [Outline of discrete mathematics](https://en.wikipedia.org/wiki/Outline_of_discrete_mathematics)
 
 ## Resources
 
@@ -55,11 +54,12 @@ template = "page.html"
 -   [What every computer science major should know](https://matt.might.net/articles/what-cs-majors-should-know)
 -   [The Computer Science Book](https://thecomputersciencebook.com)
 
-## Miscellaneous
+## Forums
 
--   [OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html)
--   [List of data structures](https://en.wikipedia.org/wiki/List_of_data_structures)
--   [Outline of discrete mathematics](https://en.wikipedia.org/wiki/Outline_of_discrete_mathematics)
+-   [Lobsters](https://lobste.rs)
+-   [Hacker News](https://news.ycombinator.com)
+-   [r/ProgrammingLanguages](https://www.reddit.com/r/ProgrammingLanguages)
+-   [r/Compilers](https://www.reddit.com/r/Compilers)
 
 ## The Internet
 
