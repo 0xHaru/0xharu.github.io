@@ -11,7 +11,7 @@ template = "page.html"
 
 -   Introduction to the Theory of Computation (Michael Sipser, 2012)
 
-## Math
+## Mathematics
 
 -   Discrete Mathematics and Its Applications (Kenneth H. Rosen, 2018)
 -   Discrete Mathematics with Applications (Susanna S. Epp, 2019)
