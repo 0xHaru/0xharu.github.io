@@ -1,0 +1,80 @@
+body {
+  font-family: "Noto Serif", serif;
+  font-size: 16px;
+  margin: 2em auto;
+  max-width: 800px;
+  text-align: justify;
+}
+
+nav {
+  padding: 10px;
+  background-color: #dee;
+}
+
+img {
+  max-width: 100%;
+}
+
+/* Code */
+
+pre {
+  padding: 0.5rem;
+  overflow: auto;
+  background-color: #eceef2;
+}
+
+code {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 14px;
+}
+
+p > code {
+  background-color: #eceef2;
+}
+
+/* Headers */
+
+h1 {
+  font-size: 2em;
+}
+
+h2 {
+  font-size: 1.5em;
+}
+
+h3 {
+  font-size: 1.17em;
+}
+
+h4 {
+  font-size: 1em;
+}
+
+h5 {
+  font-size: 0.83em;
+}
+
+h6 {
+  font-size: 0.67em;
+}
+
+/* Media queries */
+
+@media only screen and (max-width: 992px) {
+  body {
+    max-width: 650px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  body {
+    /* font-size: 14px; */
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: left;
+  }
+
+  /* code {
+    font-size: 12px;
+  } */
+}

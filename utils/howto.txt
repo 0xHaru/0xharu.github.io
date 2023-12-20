@@ -1,0 +1,18 @@
+How to add new images
+---------------------
+
+1. Copy and paste the JPEGs into "utils/"
+2. Choose (or create) a folder (F) in "static/pics/"
+3. Find the filename in folder F with the highest number (N)
+4. Set the variable "i" in "file_renamer.py" to N + 1
+5. Run: `python file_renamer.py`
+
+6. IF large images THEN
+     Run: `mogrify -strip -resize 50% -quality 92 -auto-orient *.jpg`
+   ELSE
+     Run: `mogrify -strip -auto-orient *.jpg`
+
+7. Run: `python has_exif.py` to ensure that the EXIF data has been removed
+8. Copy the processed images to "static/pics/F"
+9. Run: `mogrify -thumbnail 360x270 -quality 100 *.jpg`
+10. Move the resized images to "static/thumbnails/F"
