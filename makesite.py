@@ -36,7 +36,7 @@ def gen_pics_dot_html():
       href="https://fonts.googleapis.com/css?family=Noto%20Serif"
     />
     <!-- https://www.flaticon.com/free-icon/lambda_7288373 -->
-    <link rel="shortcut icon" type="image/png" href="favicon.png" />
+    <link rel="shortcut icon" type="image/png" href="/favicon.png" />
     <style>
       body {
         font-family: "Noto Serif", serif;
