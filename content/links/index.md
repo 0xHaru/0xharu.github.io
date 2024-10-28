@@ -6,11 +6,12 @@ pagetitle: Links | 0xHaru
 
 - [Chris Wellons](https://nullprogram.com)
 - [Bob Nystrom](https://stuffwithstuff.com)
-- [Eli Bendersky](https://eli.thegreenplace.net)
 - [Rui Ueyama](https://www.sigbus.info)
+- [Eli Bendersky](https://eli.thegreenplace.net)
 - [Max Bernstein](https://bernsteinbear.com)
+- [Ben Hoyt](https://benhoyt.com)
 - [NRK](https://nrk.neocities.org)
-- [Cozis](https://cozis.github.io)
+- [Cozis](https://coz.is)
 
 ## Compiler construction
 
@@ -22,6 +23,7 @@ pagetitle: Links | 0xHaru
 
 - [Teach Yourself Computer Science](https://teachyourselfcs.com)
 - [What every computer science major should know](https://matt.might.net/articles/what-cs-majors-should-know)
+- [The Practice of Programming](https://en.wikipedia.org/wiki/The_Practice_of_Programming)
 - [Proofs: A Long-Form Mathematics Textbook](https://longformmath.com/proofs-home)
 
 ## Forums
@@ -30,6 +32,7 @@ pagetitle: Links | 0xHaru
 - [Lobsters](https://lobste.rs)
 - [r/C_Programming](https://www.reddit.com/r/C_Programming)
 - [r/ProgrammingLanguages](https://www.reddit.com/r/ProgrammingLanguages)
+- [r/Compilers](https://www.reddit.com/r/Compilers)
 
 ## The World Wide Web
 
