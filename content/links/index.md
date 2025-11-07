@@ -12,6 +12,7 @@ pagetitle: Links | 0xHaru
 - [Ben Hoyt](https://benhoyt.com)
 - [NRK](https://nrk.neocities.org)
 - [Cozis](https://coz.is)
+- [Emanuele Franchi](https://emanuele.xyz)
 
 ## Compiler construction
 
