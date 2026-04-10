@@ -1,3 +1,7 @@
+---
+pagetitle: Proofs | 0xHaru
+---
+
 This is a disorganized collection of mathematical proofs that I find
 interesting. The proofs are usually transcribed from one or more sources (books,
 Wikipedia, university courses, ...) with my additional personal tweaks.
