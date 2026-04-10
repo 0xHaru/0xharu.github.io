@@ -41,4 +41,5 @@ pagetitle: Links | 0xHaru
 - [Marginalia](https://www.marginalia.nu)
 - [How I experience the web today](https://how-i-experience-web-today.com)
 - [Dark Patterns](https://neal.fun/dark-patterns)
+- [Email obfuscation](https://spencermortensen.com/articles/email-obfuscation)
 - [WWW](/www.svg)

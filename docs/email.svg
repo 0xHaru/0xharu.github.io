@@ -1,0 +1,11 @@
+<svg width="240" height="20" viewBox="0 0 240 20" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @import url("https://fonts.googleapis.com/css?family=Noto+Serif");
+    text {
+      fill: #000;
+      font-family: "Noto Serif";
+      font-size: 16px;
+    }
+  </style>
+  <text x="0" y="16">0xharu.git [at] gmail [dot] com</text>
+</svg>
