@@ -19,6 +19,8 @@ an email or open a [PR](https://github.com/0xHaru/proofs/pulls)!
 - [The Fundamental Theorem of Arithmetic](/proofs/FTA.pdf)
 - [Bounds on the Number of Divisors](/proofs/divisors_bounds.pdf)
 - [Maximum Number of Segments Connecting the Vertices of a Polygon](/proofs/polygon_edges.pdf)
+- [Number of Nodes in a Perfect Binary Tree](/proofs/perfect_tree.pdf)
+- [Leaves vs. Internal Nodes in a Full Binary Tree](/proofs/full_binary_tree.pdf)
 - [Divisibility of the Sum of Three Consecutive Integers](/proofs/consecutive_integers.pdf)
 - [Products of Integers of Equal Parity](/proofs/product_parity.pdf)
 - [Why Dividing by a Fraction Means Multiplying by Its Reciprocal](/proofs/reciprocal.pdf)
