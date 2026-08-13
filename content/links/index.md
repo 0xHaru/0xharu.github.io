@@ -25,7 +25,7 @@ pagetitle: Links | 0xHaru
 - [Teach Yourself Computer Science](https://teachyourselfcs.com)
 - [What every computer science major should know](https://matt.might.net/articles/what-cs-majors-should-know)
 - [The Practice of Programming](https://en.wikipedia.org/wiki/The_Practice_of_Programming)
-- [Proofs: A Long-Form Mathematics Textbook](https://longformmath.com/proofs-home)
+- [Proofs: A Long-Form Mathematics Textbook](https://longformmath.com/proofs-book)
 
 ## Forums
 
